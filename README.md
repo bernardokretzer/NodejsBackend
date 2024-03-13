@@ -1,0 +1,2 @@
+yarn sequelize db:migrate
+yarn sequelize db:migrate:undo
